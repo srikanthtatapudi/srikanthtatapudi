@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srikanth Tatapudi</h1>
-<h3 align="center">💻 Passionate Tech Explorer | B.Tech (AI & ML) | Full Stack & AI Enthusiast</h3>
+<h3 align="center">💡 AI & ML Explorer | Full Stack Developer | Tech Event Organizer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/srikanth-tatapudi-294a83262/" target="_blank">
@@ -15,49 +15,64 @@
 
 ---
 
-### 👨‍🎓 About Me
+### 👨‍💻 About Me
 
-- 🎓 **B.Tech in Artificial Intelligence & Machine Learning** (2022–2026)  
-  @ Aditya Engineering College  
-- 💡 I love working on **Full Stack Projects**, **AI Agents**, and **Real-Time Applications**
-- 🚀 Currently exploring: `AI Chatbots`, `Django`, `Flutter`, and `Data Pipelines`
-- 🧠 5⭐ in **Python** and **Java** on HackerRank with 200+ problem solving
-- 📊 Certified in: SQL, ML, JavaScript, IoT, Node.js, CSS, and more!
-- 🧩 Active member of **Google Developer Groups (GDG)**, organized 3+ events
+> 👋 Welcome to my digital workspace!  
+> I'm **Srikanth Tatapudi**, a B.Tech student in **Artificial Intelligence & Machine Learning** (CGPA: 7.99) at Aditya Engineering College.  
+> I work at the intersection of **AI**, **Full Stack Web Development**, and **Real-Time Applications**.  
+> I enjoy solving problems, organizing tech events, and building tools that make life easier!
 
 ---
 
-### 💼 Resume Highlights
+### 💼 Roles I Excel At
+- 🔧 Full Stack Web Developer (Node.js, MongoDB, HTML/CSS/JS)
+- 🤖 AI/ML Developer (Python, OpenCV, MobileNet-SSD)
+- 📊 Data Analyst (Excel, Power BI, Tableau)
+- 🧠 Event Organizer (Google Developer Groups - GDG, 100+ participants)
+- 📚 Lifelong Learner (200+ problems solved | Certified in 10+ domains)
 
-- 💻 **Internships**
-  - Wissda Inc — Full Stack Developer Intern (6 months, PPO model)
-  - rtCamp — WordPress Development Project
+---
 
-- 📂 **Projects**
-  - 🎯 Smart Library Seat & Rack Management (AI-based chatbot)
-  - 🛒 E-Commerce Website `WatchTex` (HTML, CSS, JS)
-  - 🎯 Object Detection System using `MobileNet-SSD`
-  - 📊 Data Pipeline for Call Data Analysis (ETL project)
+### 🚀 Projects
 
-- 🌐 Portfolio: [srikanthtatapudi.wordpress.com](https://srikanthtatapudi.wordpress.com)
+#### 🧠 Smart Library Management System (May–June 2025)
+- Built using HTML, CSS, JS, Node.js, MongoDB.
+- Features: real-time seat reservation, seminar scheduling, rack & book availability.
+- Optimized for user experience and performance.
+
+#### 🎯 Object Detection System (June–July 2024)
+- Real-time detection with Python, MobileNet-SSD, OpenCV.
+- Achieved **72.7 mAP** on VOC0712; optimized for mobile deployment.
+
+---
+
+### 📚 Certifications
+
+- ✅ **HarvardX / edX** – Data Science with Python, Java Programming Fundamentals  
+- ✅ **Infosys Springboard** – Machine Learning, HTML, JS, Node.js, TypeScript  
+- ✅ **NPTEL** – Internet of Things  
+- ✅ **IBM SkillsBuild** – Artificial Intelligence  
+- 🏅 **HackerRank** – Certified in Python, SQL, CSS  
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
-![Flutter](https://img.shields.io/badge/-Flutter-333?style=flat&logo=flutter)
+![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
-![WordPress](https://img.shields.io/badge/-WordPress-333?style=flat&logo=wordpress)
+![Power BI](https://img.shields.io/badge/-Power%20BI-333?style=flat&logo=powerbi)
+![Tableau](https://img.shields.io/badge/-Tableau-333?style=flat&logo=tableau)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![Postman](https://img.shields.io/badge/-Postman-333?style=flat&logo=postman)
+![VS Code](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visualstudiocode)
+![Jupyter](https://img.shields.io/badge/-Jupyter-333?style=flat&logo=jupyter)
 
 ---
 
@@ -76,16 +91,17 @@
 
 ### 🏆 Achievements
 
-- 🥇 5⭐ Python & Java (HackerRank)
-- 📈 Solved 200+ problems across platforms
-- 🧠 Completed HarvardX: **Intro to Data Science with Python**
-- 💡 Developed multiple AI-based & Full Stack Projects
-- 🌱 Learning: DevOps, Kubernetes, and Real-Time Data Engineering
+- 🥇 **5⭐** Badges in Java & Python on HackerRank  
+- 💻 **Solved 200+ coding problems** on LeetCode, CodeChef, and more  
+- 🧠 Regular participant in contests to improve algorithmic thinking  
+- 📢 Organized & hosted multiple **GDG events** for 100+ students
 
 ---
 
-### 🤝 Let’s Connect
+### 🤝 Let’s Connect!
 
-I’m open to internships, collaborations, hackathons, and tech talks!  
-**Let’s build the future together 🚀**
+I’m open to collaborations, internships, tech meetups, and building cool projects together.  
+**Let’s create impact through code 🚀**
+
+---
 
