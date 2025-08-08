@@ -79,13 +79,14 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srikanthtatapudi&show_icons=true&theme=radical" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=srikanthtatapudi&show_icons=true&theme=radical&hide=prs,issues,contribs" width="47%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=srikanthtatapudi&theme=radical" width="47%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanthtatapudi&layout=compact&theme=radical" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanthtatapudi&layout=compact&theme=radical&hide=html,css" width="47%"/>
 </p>
+
 
 ---
 
