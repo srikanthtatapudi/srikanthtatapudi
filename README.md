@@ -28,7 +28,7 @@
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanthtatapudi&layout=compact&theme=radical&hide=html,css" 
-    style="width:48%; height:220px; border:1px solid #555; border-radius:10px; box-sizing:border-box; padding:5px;" 
+    style="width:48%; height:100px; border:1px solid #555; border-radius:10px; box-sizing:border-box; padding:5px;" 
   />
 </p>
 
