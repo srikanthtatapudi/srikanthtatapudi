@@ -27,5 +27,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srikanthtatapudi&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="200" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srikanthtatapudi&theme=tokyonight&hide_border=true" height="200" width="440"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srikanthtatapudi&theme=tokyonight&hide_border=true" height="400" width="440"/>
 </p>
